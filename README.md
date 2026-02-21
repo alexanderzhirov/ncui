@@ -6,6 +6,8 @@
 
 `ncui` is a library for building TUI (Text User Interface) applications in **D** on top of **ncurses**.
 
+[![asciicast](https://asciinema.org/a/791816.svg)](https://asciinema.org/a/791816)
+
 The project includes:
 - ncurses session with configurable settings (`raw`/`cbreak`, `echo`, `keypad`, `cursor`, `ESC delay`)
 - screen stack engine (`push`/`replace`/`pop`/`popTo`/`quit`)

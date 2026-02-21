@@ -6,6 +6,8 @@
 
 `ncui` — библиотека для построения TUI-приложений на D поверх **ncurses**.
 
+[![asciicast](https://asciinema.org/a/791816.svg)](https://asciinema.org/a/791816)
+
 Проект включает:
 - сессию ncurses с конфигурацией (`raw/cbreak`, `echo`, `keypad`, `cursor`, `ESC delay`)
 - движок со стеком экранов (`push/replace/pop/popTo/quit`)
